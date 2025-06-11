@@ -1,2 +1,2 @@
-export const DB_NAME = "ScrapeProject";
+export const DB_NAME = "test";
 
